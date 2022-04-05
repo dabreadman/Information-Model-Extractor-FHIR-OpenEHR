@@ -1,0 +1,17 @@
+{
+  "name": "fyp-bread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fhir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node fhir.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "node-fetch": "^3.2.2",
+    "puppeteer": "^13.5.1"
+  }
+}
